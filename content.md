@@ -1,4 +1,4 @@
-![Maturity Model for Continuous Delivery](https://github.com/steinim/maturity_model_blogpost/maturity_model.png "Maturity Model for Continuous Delivery")
+![Maturity Model for Continuous Delivery](https://raw.github.com/steinim/maturity_model_blogpost/master/maturity_model.png "Maturity Model for Continuous Delivery")
 
 Click here to see the model on web: http://bekkopen.github.io/maturity-model
 
