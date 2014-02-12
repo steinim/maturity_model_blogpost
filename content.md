@@ -10,7 +10,12 @@ Prioritising which level to start enhancing will differ, and you will have to ma
 PROCESS & ORGANISATION
 ----------------------
 
-<img src="https://raw.github.com/steinim/maturity_model_blogpost/master/maturity_model.png" />
+### Advanced:
+> **Self organised and cross functional.**
+> The team can solve any task. 
+> Releases continuously. 
+> Continuous improvement. 
+> DevOps!
 
 Every organisation is different, and they all have a variety of processes. Yet there are some common categorisations that can be made. Silo organisations are typically a bad idea. People that depend on each others work are not co-located and don’t work together. This causes ineffective handoffs, less insight in the whole, misunderstandings and a blame culture. No one can get their own work done before others have completed theirs. Since the silos “own” the stuff they are in charge of, they don’t let others touch it. When developers don’t have access to production logs they are unable to see what goes on in production, and troubleshooting becomes almost impossible.
 
