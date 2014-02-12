@@ -32,7 +32,9 @@ DEPLOYMENT ROUTINES
 -------------------
 
 Speeding up the cycle time from idea to production is what continuous delivery is all about. Nothing has any value unless it’s in production. Deployment shouldn’t be something you spend a lot of time focusing on. It should “just happen”, and it shouldn’t involve any risk. Automate both deploy and rollback, have a feature toggle safety net, and pay special attention to your database. When releasing often you should be able to deploy without downtime.
+
 Configuration management
+------------------------
 
 Having configuration scattered all around makes it hard to understand how your application works and makes it difficult to pinpoint the cause when trouble arises. Keep it in source control and in one place.
 
