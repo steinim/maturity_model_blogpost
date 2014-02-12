@@ -1,3 +1,6 @@
+THE MODEL
+---------
+
 Click here to see the model: http://bekkopen.github.io/maturity-model
 
 HOW TO USE THE MODEL
