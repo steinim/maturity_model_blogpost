@@ -1,4 +1,6 @@
-Click here to see the model: http://bekkopen.github.io/maturity-model
+![alt text](https://github.com/https://github.com/steinim/maturity_model_blogpost/maturity_model.png "Maturity Model for Continuous Delivery")
+
+Click here to see the model on web: http://bekkopen.github.io/maturity-model
 
 HOW TO USE THE MODEL
 --------------------
