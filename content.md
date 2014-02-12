@@ -1,4 +1,4 @@
-Click here to see the model on web: http://bekkopen.github.io/maturity-model
+Click here to see the model: http://bekkopen.github.io/maturity-model
 
 HOW TO USE THE MODEL
 --------------------
