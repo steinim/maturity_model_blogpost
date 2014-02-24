@@ -1,4 +1,3 @@
-
 THE MODEL
 ---------
 
@@ -7,7 +6,7 @@ http://bekkopen.github.io/maturity-model
 HOW TO USE THE MODEL
 --------------------
 
-The first thing you need to establish is your current level of maturity within each category in the model. This will give you an idea of your strengths and weaknesses. Secondly, you need to prioritise. It is important to focus your efforts on the greatest bottleneck in your delivery process. To identify this bottleneck it can be helpful to visualise your value stream and focus your attention on the steps that are most error prone or slow.
+The first thing you need to establish is your current level of maturity within each category in the model. This will give you an idea of your strengths and weaknesses. Second, you need to prioritise. It is important to focus your efforts on the greatest bottleneck in your delivery process. To identify this bottleneck it can be helpful to visualise your value stream and focus your attention on the steps that are most error prone or slow.
 
 Prioritising which level to start enhancing will differ, and you will have to make your own assessment on which category will give the most value. You should try to keep the overall maturity level fairly even as most categories at the same level either depend on or complement each other. Furthermore you should not skip levels or try to implement them all at once. As in any agile approach you should introduce changes in an incremental and iterative way.
 
@@ -21,7 +20,7 @@ When organisations begin to adopt Agile the communication with business improves
 TECHNOLOGY
 ----------
 
-The transformation must also be supported by the best technology. “Enterprise” infrastructure that can only be configured via a GUI and which promises to solve all your problems just doesn’t cut it. One must choose each technology carefully and put together a stack which best suits your specific needs. Open source technologies are easier to configure, to script, and they are a lot easier to understand (!). When your stack is put together in a “loose” fashion it is easy to replace one part with another when something better comes along.
+The transformation must also be supported by the best technology. “Enterprise” infrastructure that promises to solve all and that only can be configured via a GUI just doesn’t cut it. One must choose each technology carefully and put together a stack that best suits your specific needs. Open source technologies are often easier to configure, easier to script, and a lot easier to understand (!). When your stack is put together in a “loose” fashion it is easy to replace one part with another when something better comes along.
 
 QUALITY ASSURANCE
 -----------------
@@ -38,19 +37,19 @@ CONFIGURATION MANAGEMENT
 
 Having configuration scattered all around makes it hard to understand how your application works and makes it difficult to pinpoint the cause when trouble arises. Keep it in source control and in one place.
 
-An application bug is not the only thing that can cause trouble in production, a badly configured infrastructure can do it just as easily. Therefore, you should treat your configuration as you would your code, put it in source control, and maybe use a provisioning framework. Make sure you test your infrastructure and use the same configuration in all environments (dev, test, qa and prod).
+An application bug is not the only thing that can cause trouble in production, a badly configured infrastructure can do it just as easily. Therefore, you should treat your configuration as you would your code, put it in source control, and consider using a provisioning framework. Make sure you test your infrastructure and use the same configuration in all environments (dev, test, qa and prod).
 
 BUILD & CI
 ----------
 
 This category is closely related to the Quality Assurance, Deployment Routines and Configuration management categories. While the first provides the feedback, the second the deployment machinery, and the third the infrastructure, Build & CI puts it all together in a pipeline and provide feedback at every stage.
 
-The most basic mechanisms merely runs tests every time code is checked in. A more advanced setup will have the feedback mechanisms triggered by any change in any environment, be they code changes, deployments or configuration changes.
+The most basic mechanisms merely runs tests every time code is checked in. A more advanced setup will have the feedback mechanisms triggered by any change in any environment, including code changes, deployments or configuration changes.
 
 SUMMARY
 -------
 
-Continuous delivery is all about reducing risk and making sure business gets their return on investment as soon as possible. It’s about removing focus from repetitive and risky tasks and devoting all you effort into delivering business value.
+Continuous delivery is all about reducing risk and making sure business get their return on investment as soon as possible. It’s about removing focus from repetitive and risky tasks and devoting all you effort into delivering business value.
 
 Hopefully you will find the maturity model valuable and useful in your own environment, and that it can help and inspire you to become better at obtaining your goals. Good luck!
 
