@@ -22,7 +22,7 @@ When organisations begin to adopt agile, the communication with business improve
 TECHNOLOGY
 ----------
 
-The transformation must also be supported by the best technology. “Enterprise” infrastructure that promises to solve every problem and that only can be configured via a GUI just doesn’t cut it. One must choose each technology carefully and put together a stack that best suits your specific needs. Open source technologies are often easier to configure, easier to script, and a lot easier to understand (!). When your stack is put together in a “loose” fashion it is easy to replace one part with another when something better comes along.
+The transformation to continous delivery must also be supported by the best technology. “Enterprise” infrastructure that promises to solve every problem and that only can be configured via a GUI doesn’t cut it. One must choose each technology carefully and put together a stack that best suits your specific needs. Open source technologies are often easier to configure, easier to script, and a lot easier to understand (!), because they are built ground up to enable you to mix and match components. When your stack is put together in a “loose” fashion it is easy to replace one part with another when something better comes along or when your requirements change.
 
 QUALITY ASSURANCE
 -----------------
