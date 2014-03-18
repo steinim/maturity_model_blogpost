@@ -3,14 +3,14 @@ THE MODEL
 
 ![The maturity model for continuous delivery](http://bekkopen.github.io/maturity-model)
 
-In the model, we use seven aspects that we find to be essential to continuous delivery. They are process & organisation, technology, quality assurance, deployment routines, configuration management, and build & continuous integration (CI). For each of these aspects, we assess the organisation's maturity level. We use the levels big challenges, baseline, intermediate and advanced. The organisation should aim to move to a higher level to achieve continuous delivery.
+In the model, we use seven aspects or categories that we find to be essential to continuous delivery. They are process & organisation, technology, quality assurance, deployment routines, configuration management, and build & continuous integration (CI). For each of these aspects, we assess the organisation's maturity level. We use the levels big challenges, baseline, intermediate and advanced. The organisation should aim to move to a higher level to achieve continuous delivery.
 
 HOW TO USE THE MODEL
 --------------------
 
-The first thing you need to establish is your current level of maturity within each category in the model. This will give you an idea of your strengths and weaknesses. Second, you need to prioritise. It is important to focus your efforts on the greatest bottleneck in your delivery process. To identify this bottleneck it can be helpful to visualise your value stream and focus your attention on the steps that are most error prone or slow.
+The first thing you need to establish is your current level of maturity within each category in the model. This will give you an idea of your strengths and weaknesses. Second, you need to prioritise. It is important to focus your efforts on the bottlenecks in your delivery process. To identify bottlenecks, it can be helpful to visualise your value stream and focus your attention on the steps that are most error prone or slow.
 
-Prioritising which level to start enhancing will vary. You will have to make your own assessment on which category will give the most value. You should try to keep the overall maturity level fairly even as most categories at the same level either depend on or complement each other. Furthermore you should not skip levels or try to implement them all at once. As in any agile approach you should introduce changes in an incremental and iterative way.
+Prioritising which category to start with will vary. You will have to make your own assessment on which category will give the most value. You should try to keep the overall maturity level fairly even as most categories at the same level either depend on or complement each other. Furthermore, you should not skip levels or try to implement them all at once. As in any agile approach you should introduce changes in an incremental and iterative way.
 
 PROCESS & ORGANISATION
 ----------------------
