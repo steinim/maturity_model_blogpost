@@ -32,14 +32,14 @@ To be able to shorten delivery time you have to ensure that quality assurance is
 DEPLOYMENT ROUTINES
 -------------------
 
-Speeding up the cycle time from idea to production is what continuous delivery is all about. Nothing has any value unless it’s in production. Deployment shouldn’t be something you spend a lot of time focusing on. It should “just happen”, and it shouldn’t involve any risk. Automate both deploy and rollback, have a feature toggle safety net, and pay special attention to your database. When releasing often you should be able to deploy without downtime.
+Lowering the cycle time from idea to production is what continuous delivery is all about. Nothing has any value unless it’s in production. Deployment shouldn’t be something you spend a lot of time on. It should “just happen”, and it shouldn’t involve any risk. Automate both deploy and rollback, have a feature toggle safety net, and pay special attention to your database. When releasing often you should be able to deploy without downtime.
 
 CONFIGURATION MANAGEMENT
 ------------------------
 
-Having configuration scattered all around makes it hard to understand how your application works and makes it difficult to pinpoint the cause when trouble arises. Keep it in source control and in one place.
+Having configuration scattered all around makes it hard to understand how your system works and makes it difficult to pinpoint the cause when trouble arises. Keep it in source control and in one place.
 
-An application bug is not the only thing that can cause trouble in production, a badly configured infrastructure can do it just as easily. Therefore, you should treat your configuration as you would your code, put it in source control, and consider using a provisioning framework. Make sure you test your infrastructure and use the same configuration in all environments (dev, test, qa and prod).
+An application bug is not the only thing that can cause trouble in production, a badly configured infrastructure can do that just as easily. Therefore, you should treat your configuration as you would your code: put it in source control. You should also consider using a provisioning framework. Make sure you test your infrastructure and use the same configuration setup in all environments (dev, test, qa and prod).
 
 BUILD & CI
 ----------
