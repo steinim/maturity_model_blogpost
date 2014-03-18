@@ -51,7 +51,7 @@ The most basic mechanisms merely run tests every time code is checked in. A more
 SUMMARY
 -------
 
-Continuous delivery is all about reducing risk and making sure business get their return on investment as soon as possible. It’s about removing focus from repetitive and risky tasks and devoting all you effort into delivering business value.
+Continuous delivery is all about reducing risk and making sure business get their return on investment as soon as possible. It’s about removing focus from repetitive and risky tasks to devoting all you effort into delivering business value.
 
 Hopefully you will find the maturity model valuable and useful in your own environment, and that it can help and inspire you to become better at obtaining your goals. Good luck!
 
