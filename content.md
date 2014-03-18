@@ -44,9 +44,9 @@ An application bug is not the only thing that can cause trouble in production, a
 BUILD & CI
 ----------
 
-This category is closely related to the Quality Assurance, Deployment Routines and Configuration management categories. While the first provides the feedback, the second the deployment machinery, and the third the infrastructure, Build & CI puts it all together in a pipeline and provide feedback at every stage.
+This category is closely related to the Quality Assurance, Deployment Routines, and Configuration management categories. While the first provides the feedback, the second the deployment machinery, and the third the infrastructure, Build & CI puts it all together in a pipeline and provides feedback at every stage.
 
-The most basic mechanisms merely runs tests every time code is checked in. A more advanced setup will have the feedback mechanisms triggered by any change in any environment, including code changes, deployments or configuration changes.
+The most basic mechanisms merely run tests every time code is checked in. A more advanced setup will have the feedback mechanisms triggered by any change in any environment, including code changes, deployments or configuration changes.
 
 SUMMARY
 -------
