@@ -8,7 +8,7 @@ HOW TO USE THE MODEL
 
 The first thing you need to establish is your current level of maturity within each category in the model. This will give you an idea of your strengths and weaknesses. Second, you need to prioritise. It is important to focus your efforts on the greatest bottleneck in your delivery process. To identify this bottleneck it can be helpful to visualise your value stream and focus your attention on the steps that are most error prone or slow.
 
-Prioritising which level to start enhancing will differ, and you will have to make your own assessment on which category will give the most value. You should try to keep the overall maturity level fairly even as most categories at the same level either depend on or complement each other. Furthermore you should not skip levels or try to implement them all at once. As in any agile approach you should introduce changes in an incremental and iterative way.
+Prioritising which level to start enhancing will vary. You will have to make your own assessment on which category will give the most value. You should try to keep the overall maturity level fairly even as most categories at the same level either depend on or complement each other. Furthermore you should not skip levels or try to implement them all at once. As in any agile approach you should introduce changes in an incremental and iterative way.
 
 PROCESS & ORGANISATION
 ----------------------
