@@ -27,7 +27,7 @@ The transformation to continous delivery must also be supported by the best tech
 QUALITY ASSURANCE
 -----------------
 
-To be able to shorten delivery time you have to ensure that quality assurance is built into the process itself in an automated way. Handing your code over to a test department or spending two days of testing each time you release becomes impossible. This doesn’t mean you should test less. The mantra of continuous delivery is to automate everything that can be automated, and all the different flavours of testing are obvious candidates for automation.
+To be able to shorten delivery time you have to ensure that quality assurance is built into the process. Quality assurance should be as automated as possible. Handing your code over to a test department or spending two days of testing each time you release becomes impossible. This doesn’t mean you should test less. The mantra of continuous delivery is to automate everything that can be automated, and all the different flavours of testing are obvious candidates for automation.
 
 DEPLOYMENT ROUTINES
 -------------------
