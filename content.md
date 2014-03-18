@@ -46,7 +46,7 @@ BUILD & CI
 
 This aspect is closely related to the Quality Assurance, Deployment Routines and Configuration management aspects. While the first provides the feedback, the second the deployment machinery, and the third the infrastructure, Build & CI puts it all together in a pipeline and provide feedback at every stage.
 
-The most basic mechanisms merely runs tests every time code is checked in. A more advanced setup will have the feedback mechanisms triggered by any change in any environment, including code changes, deployments or configuration changes.
+The most basic mechanisms merely run tests every time code is checked in. A more advanced setup will have the feedback mechanisms triggered by any change in any environment, including code changes, deployments or configuration changes.
 
 SUMMARY
 -------
