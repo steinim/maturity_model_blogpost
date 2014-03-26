@@ -5,8 +5,6 @@ THE MODEL
 
 In the model, we use seven aspects that we find to be essential to continuous delivery. They are process & organisation, technology, quality assurance, deployment routines, configuration management, and build & continuous integration (CI). For each of these aspects, we assess the organisation's maturity level. We use the levels big challenges, baseline, intermediate and advanced. The organisation should aim to move to a higher level to achieve continuous delivery.
 
-[You can use numbers for reference-style link definitions][1]
-
 HOW TO USE THE MODEL
 --------------------
 
