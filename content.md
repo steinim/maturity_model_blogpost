@@ -8,7 +8,7 @@ In the model, we use seven aspects that we find to be essential to continuous de
 HOW TO USE THE MODEL
 --------------------
 
-The first thing you need to establish is your current level of maturity within each aspect of the model. This will give you an idea of your strengths and weaknesses. Second, you need to prioritise. It is important to focus your efforts on the greatest bottleneck in your delivery process first. To identify this bottleneck it can be helpful to visualise your value stream and focus your attention on the steps that are most error prone or slow.
+The first thing you need to establish is your current level of maturity within each aspect of the model. This will give you an idea of your strengths and weaknesses. Second, you need to prioritise. It is important to focus your efforts on the greatest bottleneck (or ![constraint](https://en.wikipedia.org/wiki/Theory_of_constraints)) in your delivery process first. To identify this bottleneck it can be helpful to visualise your ![value stream](https://en.wikipedia.org/wiki/Value_stream_mapping) and focus your attention on the steps that are most error prone or slow.
 
 Prioritising which aspect to start enhancing will vary. You will have to make your own assessment on what will give the most value. You should try to keep the overall maturity level fairly even as most aspects at the same level either depend on or complement each other. Furthermore you should not skip levels or try to implement them all at once. As in any agile approach you should introduce changes in an incremental and iterative way.
 
