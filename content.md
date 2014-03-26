@@ -15,7 +15,7 @@ Prioritising which aspect to start enhancing will vary. You will have to make yo
 PROCESS & ORGANISATION
 ----------------------
 
-Every organisation is different, and they all have a variety of processes. Yet there are some common categorisations that can be made. Silo organisations are typically a bad idea. People that depend on one another's work are not co-located and don’t work together. This causes ineffective handoffs, less insight into the whole, misunderstandings and a blaming culture. No one can get their own work done before others have completed theirs. Since the silos “own” the stuff they are in charge of, they don’t let others touch it. When developers don’t have access to production logs they are unable to see what goes on in production, and troubleshooting becomes almost impossible.
+Every organisation is different, and they all have a variety of processes. Yet there are some common categorisations that can be made. [Silo organisations](https://en.wikipedia.org/wiki/Stovepipe_(organisation)) are typically a bad idea. People that depend on one another's work are not co-located and don’t work together. This causes ineffective handoffs, less insight into the whole, misunderstandings and a blaming culture. No one can get their own work done before others have completed theirs. Since the silos “own” the stuff they are in charge of, they don’t let others touch it. When developers don’t have access to production logs they are unable to see what goes on in production, and troubleshooting becomes almost impossible.
 
 When organisations begin to adopt agile, the communication with business improves and releases become more frequent. The boundaries between the fractions get blurred and for the sake of sanity the developers get access to production logs. Gradually the teams become more efficient, and they measure and seek ways to reduce cycle times between deployments. By always having their code production ready they can release at any given moment. With freedom the teams usually self-organise, given that they are cross-functional. Everyone understands that they all must work together to create the system. Developers and operations share common goals (DevOps) and everyone works on the system as a whole.
 
@@ -44,7 +44,7 @@ An application bug is not the only thing that can cause trouble in production, a
 BUILD & CI
 ----------
 
-This aspect is closely related to the Quality Assurance, Deployment Routines and Configuration management aspects. While the first provides the feedback, the second the deployment machinery, and the third the infrastructure, Build & CI puts it all together in a pipeline and provide feedback at every stage.
+This aspect is closely related to the Quality Assurance, Deployment Routines and Configuration management aspects. While the first provides the feedback, the second the deployment machinery, and the third the infrastructure, Build & CI puts it all together in a [pipeline](http://martinfowler.com/bliki/DeploymentPipeline.html) and provide feedback at every stage.
 
 The most basic mechanisms merely run tests every time code is checked in. A more advanced setup will have the feedback mechanisms triggered by any change in any environment, including code changes, deployments or configuration changes.
 
