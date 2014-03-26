@@ -3,10 +3,10 @@ THE MODEL
 
 ![The maturity model for continuous delivery](http://bekkopen.github.io/maturity-model)
 
-In the model, we use six aspects that we find to be essential to continuous delivery. They are Process & Organisation, Technology, Quality assurance, Deployment routines, Configuration management, and Build & Continuous integration. For each of these aspects, we assess the organisation’s maturity level. We use the levels big challenges, baseline, intermediate and advanced. The organisation should aim to move to a higher level to achieve continuous delivery.
-
 HOW TO USE THE MODEL
 --------------------
+
+In the model, we use six aspects that we find to be essential to continuous delivery. They are Process & Organisation, Technology, Quality assurance, Deployment routines, Configuration management, and Build & Continuous integration. For each of these aspects, we assess the organisation’s maturity level. We use the levels big challenges, baseline, intermediate and advanced. The organisation should aim to move to a higher level to achieve continuous delivery.
 
 The first thing you need to establish is your current level of maturity within each aspect of the model. This will give you an idea of your strengths and weaknesses. Second, you need to prioritise. It is important to focus your efforts on the greatest bottleneck (or [constraint](https://en.wikipedia.org/wiki/Theory_of_constraints)) in your delivery process first. To identify this bottleneck it can be helpful to visualise your [value stream](https://en.wikipedia.org/wiki/Value_stream_mapping) and focus your attention on the steps that are most error prone or slow.
 
