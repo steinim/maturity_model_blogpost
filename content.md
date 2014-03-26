@@ -1,9 +1,7 @@
 THE MODEL
 ---------
 
-![The maturity model for continuous delivery](http://bekkopen.github.io/maturity-model)
-
-In the model, we use six aspects that we find to be essential to continuous delivery. They are Process & Organisation, Technology, Quality assurance, Deployment routines, Configuration management, and Build & Continuous integration. For each of these aspects, we assess the organisation’s maturity level. We use the levels big challenges, baseline, intermediate and advanced. The organisation should aim to move to a higher level to achieve continuous delivery.
+In <a href="http://bekkopen.github.io/maturity-model" target="_blank">the model</a>, we use six aspects that we find to be essential to continuous delivery. They are Process & Organisation, Technology, Quality assurance, Deployment routines, Configuration management, and Build & Continuous integration. For each of these aspects, we assess the organisation’s maturity level. We use the levels big challenges, baseline, intermediate and advanced. The organisation should aim to move to a higher level to achieve continuous delivery.
 
 HOW TO USE THE MODEL
 --------------------
