@@ -3,7 +3,7 @@ THE MODEL
 
 ![The maturity model for continuous delivery](http://bekkopen.github.io/maturity-model)
 
-In the model, we use seven aspects that we find to be essential to continuous delivery. They are Process & Organisation, Technology, Quality assurance, Deployment routines, Configuration management, and Build & Continuous integration. For each of these aspects, we assess the organisation's maturity level. We use the levels big challenges, baseline, intermediate and advanced. The organisation should aim to move to a higher level to achieve continuous delivery.
+In the model, we use seven aspects that we find to be essential to continuous delivery. They are Process & Organisation, Technology, Quality assurance, Deployment routines, Configuration management, and Build & Continuous integration. For each of these aspects, we assess the organisation’s maturity level. We use the levels big challenges, baseline, intermediate and advanced. The organisation should aim to move to a higher level to achieve continuous delivery.
 
 HOW TO USE THE MODEL
 --------------------
@@ -15,7 +15,7 @@ Prioritising which aspect to start enhancing will vary. You will have to make yo
 PROCESS & ORGANISATION
 ----------------------
 
-Every organisation is different, and they all have a variety of processes. Yet there are some common categorisations that can be made. [Silo organisations](https://en.wikipedia.org/wiki/Stovepipe_organisation) are typically a bad idea. People that depend on one another's work are not co-located and do not work together. This causes ineffective handoffs, less insight into the whole, misunderstandings and a blaming culture. No one can get their own work done before others have completed theirs. Since the silos “own” the stuff they are in charge of, they do not let others touch it. When developers do not have access to production logs they are unable to see what goes on in production, and troubleshooting becomes almost impossible.
+Every organisation is different, and they all have a variety of processes. Yet there are some common categorisations that can be made. [Silo organisations](https://en.wikipedia.org/wiki/Stovepipe_organisation) are typically a bad idea. People that depend on one another’s work are not co-located and do not work together. This causes ineffective handoffs, less insight into the whole, misunderstandings and a blaming culture. No one can get their own work done before others have completed theirs. Since the silos “own” the stuff they are in charge of, they do not let others touch it. When developers do not have access to production logs they are unable to see what goes on in production, and troubleshooting becomes almost impossible.
 
 When organisations begin to adopt agile, the communication with business improves and releases become more frequent. The boundaries between the fractions get blurred and for the sake of sanity the developers get access to production logs. Gradually the teams become more efficient, and they measure and seek ways to reduce [cycle times](http://www.isixsigma.com/dictionary/cycle-time/) between deployments. By always having their code production ready they can release at any given moment. With freedom the teams usually self-organise, given that they are cross-functional. Everyone understands that they all must work together to create the system. Developers and operations share common goals (DevOps) and everyone works on the system as a whole.
 
