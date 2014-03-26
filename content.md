@@ -8,9 +8,9 @@ In the model, we use seven aspects that we find to be essential to continuous de
 HOW TO USE THE MODEL
 --------------------
 
-The first thing you need to establish is your current level of maturity within each category in the model. This will give you an idea of your strengths and weaknesses. Second, you need to prioritise. It is important to focus your efforts on the greatest bottleneck in your delivery process. To identify this bottleneck it can be helpful to visualise your value stream and focus your attention on the steps that are most error prone or slow.
+The first thing you need to establish is your current level of maturity within each aspect of the model. This will give you an idea of your strengths and weaknesses. Second, you need to prioritise. It is important to focus your efforts on the greatest bottleneck in your delivery process first. To identify this bottleneck it can be helpful to visualise your value stream and focus your attention on the steps that are most error prone or slow.
 
-Prioritising which level to start enhancing will vary. You will have to make your own assessment on which category will give the most value. You should try to keep the overall maturity level fairly even as most categories at the same level either depend on or complement each other. Furthermore you should not skip levels or try to implement them all at once. As in any agile approach you should introduce changes in an incremental and iterative way.
+Prioritising which aspect to start enhancing will vary. You will have to make your own assessment on what will give the most value. You should try to keep the overall maturity level fairly even as most aspects at the same level either depend on or complement each other. Furthermore you should not skip levels or try to implement them all at once. As in any agile approach you should introduce changes in an incremental and iterative way.
 
 PROCESS & ORGANISATION
 ----------------------
@@ -44,7 +44,7 @@ An application bug is not the only thing that can cause trouble in production, a
 BUILD & CI
 ----------
 
-This category is closely related to the Quality Assurance, Deployment Routines and Configuration management categories. While the first provides the feedback, the second the deployment machinery, and the third the infrastructure, Build & CI puts it all together in a pipeline and provide feedback at every stage.
+This aspect is closely related to the Quality Assurance, Deployment Routines and Configuration management aspects. While the first provides the feedback, the second the deployment machinery, and the third the infrastructure, Build & CI puts it all together in a pipeline and provide feedback at every stage.
 
 The most basic mechanisms merely runs tests every time code is checked in. A more advanced setup will have the feedback mechanisms triggered by any change in any environment, including code changes, deployments or configuration changes.
 
