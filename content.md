@@ -30,7 +30,7 @@ To be able to shorten delivery time you have to ensure that quality assurance is
 DEPLOYMENT ROUTINES
 -------------------
 
-Lowering the cycle time from idea to production is what continuous delivery is all about. Nothing has any value unless it is in production. Deployment should not be something you spend a lot of time on. It should “just happen”, and it should not involve any risk. Automate both deploy and rollback, have a feature toggle safety net, and pay special attention to your database. When releasing often you should be able to deploy without downtime.
+Lowering the cycle time from idea to production is what continuous delivery is all about. Nothing has any value unless it is in production. Deployment should not be something you spend a lot of time on. It should “just happen”, and it should not involve any risk. Automate both deploy and rollback, have a feature toggle safety net, and pay special attention to your database. When releasing often you should be able to deploy [without downtime](https://vimeo.com/62298868).
 
 CONFIGURATION MANAGEMENT
 ------------------------
